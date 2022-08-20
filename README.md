@@ -15,4 +15,3 @@ The dataset chosen as the training sample comprises of various house listings in
 - Postal Code
 
 For the simple linear regression model I will only be looking at the `Price` and `Area in sq ft` properties.  
-this is still a work in progress. will keep updating as i go
