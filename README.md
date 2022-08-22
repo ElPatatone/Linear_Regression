@@ -15,3 +15,4 @@ The dataset chosen as the training sample comprises of various house listings in
 - Postal Code
 
 For the simple linear regression model I will only be looking at the `Price` and `Area in sq ft` properties.  
+As the data set is from Londons house prices I am expecting to get a lot of outliers due to the nature of Londons property market.
