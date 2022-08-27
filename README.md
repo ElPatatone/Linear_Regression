@@ -16,3 +16,7 @@ The dataset chosen as the training sample comprises of various house listings in
 
 For the simple linear regression model I will only be looking at the `Price` and `Area in sq ft` properties.  
 As the data set is from Londons house prices I am expecting to get a lot of outliers due to the nature of Londons property market.
+
+## Update
+I am taking a break from this as I am losing my mind due to the code not working, maths adds up and I understand the theory behind linear regression.
+But I am not getting the expected output.
